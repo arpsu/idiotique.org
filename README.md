@@ -1,0 +1,2 @@
+# idiotique.org
+Personal website
