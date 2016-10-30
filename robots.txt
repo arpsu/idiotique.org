@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /assets/
+Disallow: /cgi-bin/
+Disallow: /images/
+Disallow: /webmail/
+Sitemap: http://www.idiotique.org/sitemap.xml
